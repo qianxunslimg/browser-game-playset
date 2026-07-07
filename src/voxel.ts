@@ -224,8 +224,8 @@ export function startVoxelForge(root: HTMLElement) {
       <button type="button" data-scan>矿脉扫描</button>
       <button type="button" data-smart>执行工序</button>
       <button type="button" data-refine>精炼</button>
-      <a class="voxel-link" href="/">游戏大厅</a>
-      <a class="voxel-link" href="/?game=cabin">林间求生</a>
+      <a class="voxel-link" href="./">游戏大厅</a>
+      <a class="voxel-link" href="?game=cabin">林间求生</a>
     </div>
   `;
   root.append(hud);

@@ -171,9 +171,9 @@ export function startOrbitalDefense(root: HTMLElement) {
       <button type="button" data-tactic>执行战术</button>
       <button type="button" data-formation>战术编队</button>
       <button type="button" data-wave>迎击</button>
-      <a class="orbit-link" href="/">游戏大厅</a>
-      <a class="orbit-link" href="/?game=cabin">林间求生</a>
-      <a class="orbit-link" href="/?game=voxel">深岩工坊</a>
+      <a class="orbit-link" href="./">游戏大厅</a>
+      <a class="orbit-link" href="?game=cabin">林间求生</a>
+      <a class="orbit-link" href="?game=voxel">深岩工坊</a>
     </div>
   `;
   root.append(hud);

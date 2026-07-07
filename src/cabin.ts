@@ -758,7 +758,7 @@ export function startCabinBuilder(root: HTMLElement) {
       <button type="button" data-steward>托管</button>
       <button type="button" data-expedition>远征</button>
       <button type="button" data-eat>吃浆果</button>
-      <a class="cabin-link" href="/">游戏大厅</a>
+      <a class="cabin-link" href="./">游戏大厅</a>
     </div>
   `;
   root.append(hud);
