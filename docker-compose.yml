@@ -1,3 +1,5 @@
+name: browser-game-playset
+
 services:
   browser-game-playset:
     build:
