@@ -1,0 +1,8 @@
+services:
+  browser-game-playset:
+    build:
+      context: .
+    image: browser-game-playset:local
+    ports:
+      - "8094:80"
+    restart: unless-stopped

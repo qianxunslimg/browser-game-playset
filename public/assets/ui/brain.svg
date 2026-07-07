@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <radialGradient id="brain" cx="38%" cy="28%" r="72%">
+      <stop offset="0" stop-color="#ffc4e8"/>
+      <stop offset=".6" stop-color="#ff66b7"/>
+      <stop offset="1" stop-color="#b63380"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="64" cy="108" rx="42" ry="13" fill="#34152a" opacity=".45"/>
+  <path d="M43 21 C26 21 17 36 22 50 C9 57 12 78 29 80 C29 100 53 106 64 91 C75 106 99 100 99 80 C116 78 119 57 106 50 C111 36 102 21 85 21 C77 8 51 8 43 21Z" fill="url(#brain)" stroke="#7a255c" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M43 24 C36 34 39 45 50 49 C38 55 38 71 52 76 C44 83 47 94 59 97" fill="none" stroke="#ffd6ee" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+  <path d="M85 24 C92 34 89 45 78 49 C90 55 90 71 76 76 C84 83 81 94 69 97" fill="none" stroke="#d9419d" stroke-width="6" stroke-linecap="round" opacity=".6"/>
+  <path d="M64 18 C60 35 63 52 64 68 C65 84 65 94 64 104" fill="none" stroke="#8f2a6b" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+  <circle cx="46" cy="50" r="4" fill="#fff2fa" opacity=".8"/>
+  <circle cx="81" cy="41" r="4" fill="#fff2fa" opacity=".7"/>
+</svg>
